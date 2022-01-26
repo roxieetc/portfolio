@@ -14,10 +14,15 @@ const Second = () => {
                 <div className="text-2">
                     <p>Hi, my name is Roxie Schnoor and I am a software engineer. My passion to create and excitement to learn
                     have helped me to become a competent and confident developer that I am today.</p>
-                    <br/>
+                    <br />
                     <p>From learning frontend languages on my own, such as: HTML5, CSS3, and JavaScript, to expanding my knowledge
                        and skillset through the General Assembly Software Engineering Bootcamp, I have continued to grow my passion
                        and work towards becoming a skilled and valued developer.
+                    </p>
+                    <br />
+                    <p>When I'm not coding, I enjoy filming and editing vlogs for YouTube, trying out local restaurants and coffee shops,
+                        as well as spending time with my two border collies. I try my best to keep a positive outlook on life, always
+                        surrounding myself with the things I enjoy and the things that bring me the most happiness.
                     </p>
                 </div>
             </div>
