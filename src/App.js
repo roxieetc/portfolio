@@ -2,7 +2,7 @@ import './App.css';
 import Header from './Components/Header';
 import Second from './Components/Second';
 import Section from './Components/Section';
-import Testimonials from './Components/Testimonials';
+import Projects from './Components/Projects';
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
       <Header />
       <Section />
       <Second />
-      <Testimonials />
+      <Projects />
     </div>
   );
 }
