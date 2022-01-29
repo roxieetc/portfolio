@@ -1,6 +1,8 @@
 import React from 'react'
 import './styles/Projects.css'
-import image from '../Pictures/MyPicture.png'
+import Valorant from '../Pictures/AgentList.png'
+import SPAD from '../Pictures/categories.png'
+import Clique from '../Pictures/UserProfile.png'
 
 
 const Projects = () => {
@@ -9,7 +11,7 @@ const Projects = () => {
             <h1>My Projects</h1>
             <div className="cart-container">
                 <div className="cart">
-                    <img src={image} alt="" />
+                    <img src={Valorant} alt="" />
                     <p>Valorant Database</p>
                     <div className='buttons'>
                     <a href="https://valorantdb.herokuapp.com/" target="_blank" rel="noreferrer"><button className='projectLink'>Live Site</button></a>
@@ -21,7 +23,7 @@ const Projects = () => {
                     </div>
 
                 <div className="cart">
-                    <img src={image} alt="" />
+                    <img src={SPAD} alt="" />
                     <p>Clique Social</p>
                     <div className='buttons'>
                     <a href="https://github.com/roxieetc/clique-frontend" target="_blank" rel="noreferrer"><button className='projectLink'>GitHub</button></a></div>
@@ -32,7 +34,7 @@ const Projects = () => {
                 </div>
 
                 <div className="cart">
-                    <img src={image} alt="" />
+                    <img src={Clique} alt="" />
                     <p>Sprinkle & Dash</p>
                     <div className='buttons'>
                     <a href="https://sprinkleanddash.herokuapp.com/" target="_blank" rel="noreferrer"><button className='projectLink'>Live Site</button></a>
