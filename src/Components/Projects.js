@@ -3,6 +3,7 @@ import './styles/Projects.css'
 import Valorant from '../Pictures/AgentList.png'
 import SPAD from '../Pictures/categories.png'
 import Clique from '../Pictures/UserProfile.png'
+import Trivia from '../Pictures/triviaapp.png'
 
 
 const Projects = () => {
@@ -23,7 +24,7 @@ const Projects = () => {
                     </div>
 
                 <div className="cart">
-                    <img src={SPAD} alt="" />
+                    <img src={Clique} alt="" />
                     <p>Clique Social</p>
                     <div className='buttons'>
                     <a href="https://github.com/roxieetc/clique-frontend" target="_blank" rel="noreferrer"><button className='projectLink'>GitHub</button></a></div>
@@ -34,7 +35,7 @@ const Projects = () => {
                 </div>
 
                 <div className="cart">
-                    <img src={Clique} alt="" />
+                    <img src={SPAD} alt="" />
                     <p>Sprinkle & Dash</p>
                     <div className='buttons'>
                     <a href="https://sprinkleanddash.herokuapp.com/" target="_blank" rel="noreferrer"><button className='projectLink'>Live Site</button></a>
@@ -43,6 +44,18 @@ const Projects = () => {
                         Each recipe features an image of the dish, instructions on how to prepare, and a YouTube link for visual preparation. 
                         Users can also utilize the random recipe generator.</h5>
                         <h6>ReactJS, themealdb API</h6>
+                </div>
+
+                <div className="cart">
+                    <img src={Trivia} alt="" />
+                    <p>Final Fantasy Trivia</p>
+                    <div className='buttons'>
+                    <a href="https://roxieetc.github.io/FFX-Trivia/" target="_blank" rel="noreferrer"><button className='projectLink'>Live Site</button></a>
+                    <a href="https://github.com/roxieetc/FFX-Trivia" target="_blank" rel="noreferrer"><button className='projectLink'>GitHub</button></a></div>
+                    <h5>Recipe generator app created using ReactJS and themealdb API. This app allows users to look up recipes by category. 
+                        Each recipe features an image of the dish, instructions on how to prepare, and a YouTube link for visual preparation. 
+                        Users can also utilize the random recipe generator.</h5>
+                        <h6>HTML, CSS, JavaScript</h6>
                 </div>
 
             </div>
