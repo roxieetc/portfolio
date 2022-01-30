@@ -27,10 +27,9 @@ const Second = () => {
                 </div>
             </div>
 
-            <h1 className='tech-stack'>Current Tech</h1>
+            {/* <h1 className='tech-stack'>Current Tech</h1>
 
-            <div className="container-2">
-                <div className="text-2">
+                <div className="technologies">
                     <i class="devicon-html5-plain-wordmark colored"></i>
                     <i class="devicon-css3-plain-wordmark colored"></i>
                     <i class="devicon-javascript-plain colored"></i>
@@ -43,8 +42,7 @@ const Second = () => {
                     <i class="devicon-postgresql-plain-wordmark colored"></i>
                     <i class="devicon-canva-original"></i>
                     <i class="devicon-vscode-plain colored"></i>
-                    </div>
-                </div>
+                    </div> */}
         </section>
     )
 }

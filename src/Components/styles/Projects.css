@@ -7,7 +7,7 @@
   font-family: "Poppins", sans-serif;
   overflow: hidden;
   border-top: 7px solid #23163b;
-  padding-top: 5rem;
+  padding-top: 3rem;
 }
 .projects h1 {
   display: flex;
@@ -32,7 +32,8 @@
   text-align: center;
   align-items: center;
   width: 400px;
-  border: 2px solid #fff;
+  /* border-left: 1px solid #fff;
+  border-right: 1px solid #fff; */
   padding: 20px;
 }
 
@@ -50,13 +51,14 @@
 .cart h5 {
   margin-top: 10px;
   font-size: 16px;
+  font-weight: 400;
   line-height: 30px;
   color: #fff;
 }
 
 h6 {
   color: rgb(175, 223, 144);
-  font-size: 13px;
+  font-size: 16px;
   margin-top: 2rem;
 }
 
