@@ -29,6 +29,12 @@
   overflow: hidden;
 }
 
+i {
+  font-size: 500%;
+  padding-right: 5%;
+  text-shadow: 2px 2px 5px rgb(32, 32, 32);
+}
+
 .image-cont img {
   width: 620px;
 }
