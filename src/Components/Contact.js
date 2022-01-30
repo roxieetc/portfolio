@@ -17,8 +17,8 @@ function Contact () {
                 </div>
 
                 <div className="socials">
-                    <p><a href="https://github.com/roxieetc" target="_blank" rel="noreferrer"><i class="devicon-linkedin-plain"></i></a>
-                       <a href="https://www.linkedin.com/in/roxieschnoor/" target="_blank" rel="nonreferrer"><i class="devicon-github-original"></i></a>
+                    <p><a href="https://github.com/roxieetc" target="_blank" rel="noreferrer"><i class="devicon-github-original"></i></a>
+                       <a href="https://www.linkedin.com/in/roxieschnoor/" target="_blank" rel="nonreferrer"><i class="devicon-linkedin-plain"></i></a>
                     </p>
                 </div>
             </div>
