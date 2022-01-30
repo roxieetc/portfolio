@@ -15,7 +15,7 @@ const Header = () => {
                 </div>
 
 
-                <div>
+                <div className="navLinks">
                     {links.map((link) => {
                         return (
                             <a href={link.url} key={link.id}>
