@@ -6,6 +6,8 @@
   width: 100%;
   font-family: "Poppins", sans-serif;
   overflow: hidden;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
 }
 
 .projects h1 {
@@ -25,7 +27,7 @@
 .cart {
   display: flex;
   flex-direction: column;
-  background-color: rgba(255, 255, 255, 0.1);
+  /* background-color: rgba(255, 255, 255, 0.1); */
   margin-top: 4rem;
   text-align: center;
   align-items: center;

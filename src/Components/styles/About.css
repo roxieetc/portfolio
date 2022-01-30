@@ -22,16 +22,33 @@
   justify-content: space-between;
   align-items: center;
   padding: 30px;
-  margin: 50px 80px;
+  margin: 50px 100px;
   background-color: rgba(255, 255, 255, 0.1);
   overflow: hidden;
 }
 
-/* i {
+.tech-stack {
+  color: rgb(175, 223, 144);
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+
+.technologies {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  margin: 0px 100px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+i {
   font-size: 400%;
   padding-right: 5%;
   text-shadow: 2px 2px rgb(0, 0, 0);
-} */
+  color: white;
+}
 
 .image-cont img {
   width: 620px;

@@ -27,7 +27,7 @@ function About() {
                 </div>
             </div>
 
-            {/* <h1 className='tech-stack'>Current Tech</h1>
+            <h1 className='tech-stack'>Current Tech</h1>
 
                 <div className="technologies">
                     <i class="devicon-html5-plain-wordmark colored"></i>
@@ -42,7 +42,7 @@ function About() {
                     <i class="devicon-postgresql-plain-wordmark colored"></i>
                     <i class="devicon-canva-original"></i>
                     <i class="devicon-vscode-plain colored"></i>
-                    </div> */}
+                    </div>
         </section>
     )
 }
