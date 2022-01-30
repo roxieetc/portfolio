@@ -27,6 +27,8 @@ const Second = () => {
                 </div>
             </div>
 
+            <h1 className='tech-stack'>Current Tech</h1>
+
             <div className="container-2">
                 <div className="text-2">
                     <i class="devicon-html5-plain-wordmark colored"></i>

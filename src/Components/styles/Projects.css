@@ -1,14 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Duru+Sans&family=Lato:ital,wght@0,300;0,700;1,100&family=Montserrat:wght@200;600&family=Poppins:wght@100;400;500&family=Roboto+Mono&family=Roboto:wght@500;900&family=Rubik:wght@800&display=swap");
 
-.testimonials {
+.projects {
   background: linear-gradient(to top, #403052, #23163b);
   min-height: 100vh;
   width: 100%;
   font-family: "Poppins", sans-serif;
   overflow: hidden;
   border-top: 7px solid #23163b;
+  padding-top: 5rem;
 }
-.testimonials h1 {
+.projects h1 {
   display: flex;
   justify-content: center;
   margin-top: 1rem;
