@@ -8,7 +8,7 @@ import Trivia from '../Pictures/triviaapp.png'
 
 const Projects = () => {
     return (
-        <section className='projects'>
+        <section className='projects' id="projects">
             <h1>My Projects</h1>
             <div className="cart-container">
                 <div className="cart">

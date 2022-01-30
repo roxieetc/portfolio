@@ -1,22 +1,22 @@
-export const Data = [
+export const links = [
     {
-        text : 'Home',
-        path : '/',
-        className : 'data-item'
+        id : 1,
+        text : 'home',
+        url : '#home'
     },
     {
-        text : 'Works',
-        path : '/works',
-        className : 'data-item'
+        id : 2,
+        text : 'about',
+        url : '#about'
     },
     {
-        text : 'Gallery',
-        path : '/gallery',
-        className : 'data-item'
+        id : 3,
+        text : 'projects',
+        url : '#projects'
     },
     {
-        text : 'Repositories',
-        path : '/repos',
-        className : 'data-item'
+        id : 4,
+        text : 'contact',
+        url : '#contact'
     },
 ]

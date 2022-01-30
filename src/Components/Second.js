@@ -4,7 +4,7 @@ import './styles/Second.css'
 
 const Second = () => {
     return (
-        <section className='section-2'>
+        <section className='section-2' id="about">
             <h1 className='about-me'>About Me</h1>
             <div className="container-2">
                 <div className="image-cont">
