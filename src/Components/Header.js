@@ -14,7 +14,6 @@ function Header() {
                     <h1>RS Dev .</h1>
                 </div>
 
-
                 <div className="navLinks">
                     {links.map((link) => {
                         return (

@@ -3,12 +3,12 @@
 .header {
   width: 100%;
   font-family: "Poppins", sans-serif;
-  position: fixed;
+  position: absolute;
   overflow: hidden;
   display: flex;
   align-items: center;
   z-index: 100;
-  background-color: #23163b;
+  /* background-color: #23163b; */
 }
 nav {
   display: flex;
