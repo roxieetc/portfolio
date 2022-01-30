@@ -1,7 +1,7 @@
 import React from "react";
 import './styles/Contact.css'
 
-function Contact () {
+function Contact() {
     return (
         <section className="contact" id ="contact">
             <div className="contactInfo">

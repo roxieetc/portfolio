@@ -1,8 +1,8 @@
 import React from 'react'
 import image from '../Pictures/CouchPic.png'
-import './styles/Second.css'
+import './styles/About.css'
 
-const Second = () => {
+function About() {
     return (
         <section className='section-2' id="about">
             <h1 className='about-me'>About Me</h1>
@@ -47,4 +47,4 @@ const Second = () => {
     )
 }
 
-export default Second
+export default About;

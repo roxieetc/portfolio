@@ -1,8 +1,8 @@
 import React from 'react'
 import image from '../Pictures/MyPicture.png'
-import './styles/Section.css'
+import './styles/Hero.css'
 
-const Section = () => {
+function Hero() {
     return (
         <section className='main-section' id="home">
             <div className='container'>
@@ -26,4 +26,4 @@ const Section = () => {
     )
 }
 
-export default Section
+export default Hero;

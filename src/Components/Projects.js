@@ -6,7 +6,7 @@ import Clique from '../Pictures/UserProfile.png'
 import Trivia from '../Pictures/triviaapp.png'
 
 
-const Projects = () => {
+function Projects() {
     return (
         <section className='projects' id="projects">
             <h1>My Projects</h1>

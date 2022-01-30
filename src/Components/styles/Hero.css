@@ -2,14 +2,14 @@
 
 .main-section {
   width: 100%;
-  min-height: 100vh;
+  min-height: 80vh;
   background: linear-gradient(to top, #403052, #23163b);
   font-family: "Poppins", sans-serif;
   overflow: hidden;
 }
 
 .container {
-  height: 100vh;
+  height: 80vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
