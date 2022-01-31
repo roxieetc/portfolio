@@ -30,12 +30,12 @@ i {
   padding-right: 2rem;
 }
 
-a {
+.socials a {
   text-decoration: none;
   color: white;
 }
 
-a:hover {
+.socials i:hover {
   cursor: pointer;
   color: rgb(175, 223, 144);
 }

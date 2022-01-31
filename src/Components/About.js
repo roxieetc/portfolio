@@ -17,7 +17,7 @@ function About() {
                     <br />
                     <p>From learning frontend languages on my own, such as: HTML5, CSS3, and JavaScript, to expanding my knowledge
                        and skillset through the General Assembly Software Engineering Bootcamp, I have continued to grow my passion
-                       and work towards becoming a skilled and valued developer.
+                       and work towards becoming a skilled and valuable developer.
                     </p>
                     <br />
                     <p>When I'm not coding, I enjoy filming and editing vlogs for YouTube, trying out local restaurants and coffee shops,

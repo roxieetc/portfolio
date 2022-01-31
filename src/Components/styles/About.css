@@ -38,6 +38,7 @@
 .technologies {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   padding: 30px;
   margin: 0px 100px;
   background-color: rgba(255, 255, 255, 0.1);
@@ -46,6 +47,7 @@
 i {
   font-size: 400%;
   padding-right: 5%;
+  padding: 15px 0px;
   text-shadow: 2px 2px rgb(0, 0, 0);
   color: white;
 }

@@ -3,13 +3,13 @@
 .header {
   width: 100%;
   font-family: "Poppins", sans-serif;
-  position: absolute;
+  position: fixed;
   overflow: hidden;
   display: flex;
   align-items: center;
-  z-index: 100;
-  /* background-color: #23163b; */
+  background-color: #23163b;
 }
+
 nav {
   display: flex;
   flex-grow: 1;
@@ -35,4 +35,20 @@ nav {
 
 .navLinks a {
   margin-right: 5rem;
+  text-decoration: none;
+  color: white;
+}
+
+.navLinks a:hover {
+  color: rgb(175, 223, 144);
+}
+
+@media (max-width: 1499px) {
+  .header {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    /* background-color: #23163b; */
+  }
 }
